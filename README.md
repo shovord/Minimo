@@ -1,0 +1,2 @@
+# Minimo
+bootstrap project
